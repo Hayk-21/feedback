@@ -1,0 +1,6 @@
+{
+    "require": {
+        "dotzero/amocrm": "^0.3.29",
+        "amocrm/amocrm-api-library": "^0.5.2"
+    }
+}
